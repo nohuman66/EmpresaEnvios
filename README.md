@@ -1,15 +1,20 @@
-## Getting Started
+## Operador Logístico
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Aplicación en Java para registrar envíos terrestres, aéreos y marítimos y calcular su costo.
 
-## Folder Structure
+## Estructura de carpetas
 
-The workspace contains one folders by default, where:
+El proyecto contiene la carpeta `src`, que incluye:
 
-- `src`: the folder to maintain sources
+- `controladores`
+- `fabricas`
+- `iconos`
+- `modelos`
+- `principal`
+- `servicios`
+- `vistas`
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Autor
 
-## Dependency Management
+Santiago Castaño Osorio
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
