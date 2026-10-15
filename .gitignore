@@ -1,13 +1,24 @@
-# Archivos compilados
+# Compilados
 *.class
-
-# Archivos empaquetados
-*.jar
-*.war
-*.ear
-*.zip
-*.tar.gz
-
-#vs code
-.vscode/
 bin/
+out/
+
+# Archivos que genera la extensión de Java en VS Code
+.classpath
+.project
+.settings/
+.factorypath
+
+# VS Code
+.vscode/
+
+# Paquetes
+*.jar
+
+# Logs y temporales
+*.log
+*.tmp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
