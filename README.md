@@ -14,6 +14,12 @@ El proyecto contiene la carpeta `src`, que incluye:
 - `servicios`
 - `vistas`
 
+## Ejecutar
+
+Se debe ejecutar 
+
+- `principal/Logistica.java`
+
 ## Autor
 
 Santiago Castaño Osorio
